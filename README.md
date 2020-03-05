@@ -5,3 +5,5 @@ A collection of deep learning based localization models
 
 ## Camera Relocalization
 |Shortname |Year| Publication|
+|----------|----|------------|
+|          |.   |            |
