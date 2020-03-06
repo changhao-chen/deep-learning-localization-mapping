@@ -6,4 +6,5 @@ A collection of deep learning based localization models
 ## Camera Relocalization
 | Models   |Year/Month| Publication| Code|
 |----------|----|------------|------|
-| PoseNet  | 2015/12   |            |.   |
+| PoseNet  | 2015/12 | ICCV |   |
+| VidLoc   | 2017/07 | CVPR |.  |
