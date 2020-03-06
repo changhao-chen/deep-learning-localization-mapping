@@ -1,4 +1,4 @@
-# deep learning based localization
+# Deep Learning based Localization
 A collection of deep learning based localization models
 
 ## Category
@@ -46,12 +46,17 @@ A collection of deep learning based localization models
 |----------|----|------------|------|---|
 | VINet | 2017/02 | AAAI | [VINet: Visual-Inertial Odometry as a Sequence-to-Sequence Learning Problem](https://arxiv.org/abs/1701.08376) | |
 | VIOLearner | 2019/04 | TPAMI | [Unsupervised deep visual-inertial odometry with online error correction for rgb-d imagery](https://ieeexplore.ieee.org/document/8691513) | |
+| SelectFusion | 2019/05 | CVPR | [Selective Sensor Fusion for Neural Visual-Inertial Odometry](https://arxiv.org/abs/1903.01534) | |
 | DeepVIO | 2019/11 | IROS | [DeepVIO: Self-supervised deep learning of monocular visual inertial odometry using 3d geometric constraints](https://arxiv.org/abs/1906.11435) | |
 
 
 ## Inertial Positioning (Odometry)
 | Models   |Year/Month| Publication| Paper | Code |
 |----------|----|------------|------|---|
+| IONet | 2018/02 | AAAI | [IONet: Learning to Cure the Curse of Drift in Inertial Odometry](https://arxiv.org/abs/1802.02209) | |
+| RIDI | 2018/09 | ECCV | [RIDI: Robust IMU Double Integration](https://arxiv.org/abs/1712.09004) | |
+| MotionTransformer| 2019/01 | AAAI | [MotionTransformer: Transferring Neural Inertial Tracking between Domains](https://www.aaai.org/ojs/index.php/AAAI/article/view/4802) | |
+| Brossard et al. | 2019/05 | ICRA | [Learning wheel odometry and imu errors for localization](https://hal.archives-ouvertes.fr/hal-01874593/document) | |
 
 ## LIDAR Positioning (Odometry)
 | Models   |Year/Month| Publication| Paper | Code |
@@ -59,3 +64,7 @@ A collection of deep learning based localization models
 | LO-Net | 2019/06 | CVPR | [LO-Net: Deep Real-time Lidar Odometry](https://arxiv.org/abs/1904.08242) | |
 | L3-Net | 2019/06 | CVPR | [L3-Net: Towards Learning based LiDAR Localization for Autonomous Driving](https://songshiyu01.github.io/pdf/L3Net_W.Lu_Y.Zhou_S.Song_CVPR2019.pdf) | |
 | Valente et al. | 2019/11 | IROS | [Deep sensor fusion for real-time odometry estimation](https://ieeexplore.ieee.org/document/8967803) | |
+
+## Map Representation
+| Models   |Year/Month| Publication| Paper | Code |
+|----------|----|------------|------|---|
