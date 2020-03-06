@@ -56,8 +56,13 @@ A collection of deep learning based localization models
 |----------|----|------------|------|---|
 | IONet | 2018/02 | AAAI | [IONet: Learning to Cure the Curse of Drift in Inertial Odometry](https://arxiv.org/abs/1802.02209) | |
 | RIDI | 2018/09 | ECCV | [RIDI: Robust IMU Double Integration](https://arxiv.org/abs/1712.09004) | |
+| Wagstaff et al. | 2018/09 | IPIN | [LSTM-Based Zero-Velocity Detection for Robust Inertial Navigation](https://ieeexplore.ieee.org/abstract/document/8533770) | |
+| Cortes et al. | 2019/09 | MLSP | [Deep Learning Based Speed Estimation for Constraining Strapdown Inertial Navigation on Smartphones](https://ieeexplore.ieee.org/abstract/document/8516710) | |
 | MotionTransformer| 2019/01 | AAAI | [MotionTransformer: Transferring Neural Inertial Tracking between Domains](https://www.aaai.org/ojs/index.php/AAAI/article/view/4802) | |
+| AbolDeepIO | 2019/04 | TITS | [AbolDeepIO: A Novel Deep Inertial Odometry Network for Autonomous Vehicles](https://ieeexplore.ieee.org/abstract/document/8693766) | |
 | Brossard et al. | 2019/05 | ICRA | [Learning wheel odometry and imu errors for localization](https://hal.archives-ouvertes.fr/hal-01874593/document) | |
+| OriNet | 2019/12 | RA-L | [OriNet: Robust 3-D Orientation Estimation With a Single Particular IMU](https://ieeexplore.ieee.org/abstract/document/8931590) | |
+| L-IONet | 2020/01| IOT-J | [Deep Learning based Pedestrian Inertial Navigation: Methods, Dataset and On-Device Inference](https://arxiv.org/abs/2001.04061) | |
 
 ## LIDAR Positioning (Odometry)
 | Models   |Year/Month| Publication| Paper | Code |
