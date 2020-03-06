@@ -1,6 +1,8 @@
 # Deep Learning based Localization
 A collection of deep learning based localization models
 
+Please contact Changhao Chen (email: changhao.chen@cs.ox.ac.uk) if you have any question or would like to add your work on the list.
+
 ## Category
 
 ## Camera Relocalization
