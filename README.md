@@ -1,9 +1,6 @@
 # Deep Learning based Localization
 A collection of deep learning based localization models
 
-This list is maintained by Changhao Chen, a Ph.D. student at Department of Computer Science, University of Oxford.
-Please contact him (email: changhao.chen@cs.ox.ac.uk) if you have any question or would like to add your work on the list.
-
 ## Category
 
 ## Camera Relocalization
@@ -79,3 +76,6 @@ Please contact him (email: changhao.chen@cs.ox.ac.uk) if you have any question o
 | Models   |Year/Month| Publication| Paper | Code |
 |----------|----|------------|------|---|
 | CodeSLAM | 2018/05 | CVPR | [CodeSLAM - Learning a Compact, Optimisable Representation for Dense Visual SLAM](https://arxiv.org/abs/1804.00874) | |
+
+This list is maintained by Changhao Chen, a Ph.D. student at Department of Computer Science, University of Oxford.
+Please contact him (email: changhao.chen@cs.ox.ac.uk) if you have any question or would like to add your work on the list.
