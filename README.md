@@ -14,16 +14,19 @@ A collection of deep learning based localization models
 | Naseer et al. | 2017/09 | IROS | [Deep Regression for Monocular Camera-based 6-DoF Global Localization in Outdoor Environments](http://ais.informatik.uni-freiburg.de/publications/papers/naseer17iros.pdf)| |
 | LSTM-PoseNet | 2017/10| ICCV | [Image-based localization using lstms for structured feature correlation](https://arxiv.org/abs/1611.07890) | |
 | VLocNet | 2018/05 | ICRA | [Deep auxiliary learning for visual localization and odometry](https://arxiv.org/abs/1803.03642)| |
+| ContextualNet | 2018/05 | ICRA | [ContextualNet: Exploiting Contextual Information using LSTMs to Improve Image-based Localization](https://ieeexplore.ieee.org/document/8461124)| |
 | MapNet | 2018/06 | CVPR | [Geometry-Aware Learning of Maps for Camera Localization](https://arxiv.org/abs/1712.03342)| |
 | Brachmann et al. | 2018/06 | CVPR | [Learning less is more-6d camera localization via 3d surface regression](https://arxiv.org/abs/1711.10228) | |
 | Sattler et al. | 2018/06 | CVPR | [Benchmarking 6DOF Outdoor Visual Localization in Changing Conditions](http://openaccess.thecvf.com/content_cvpr_2018/html/Sattler_Benchmarking_6DOF_Outdoor_CVPR_2018_paper.html) | |
 | Schonberger et al.| 2018/06 | CVPR | [Semantic Visual Localization](http://openaccess.thecvf.com/content_cvpr_2018/papers/Schonberger_Semantic_Visual_Localization_CVPR_2018_paper.pdf) | |
 | InLoc | 2018/06 | CVPR | [InLoc: Indoor Visual Localization with Dense Matching and View Synthesis](http://openaccess.thecvf.com/content_cvpr_2018/papers/Taira_InLoc_Indoor_Visual_CVPR_2018_paper.pdf) | |
 | Piasco et al. | 2019/05 | ICRA | [Learning scene geometry for visual localization in challenging conditions](https://hal.archives-ouvertes.fr/hal-02057378/document)| |
+| Amini et al. | 2019/05 | ICRA | [Variational End-to-End Navigation and Localization](https://arxiv.org/abs/1811.10119) | |
 | SANet | 2019/10 | ICCV | [SANet: scene agnostic network for camera localization](http://openaccess.thecvf.com/content_ICCV_2019/papers/Yang_SANet_Scene_Agnostic_Network_for_Camera_Localization_ICCV_2019_paper.pdf)| |
 | Huang et al. | 2019/10 | ICCV | [Prior guided dropout for robust visual localization in dynamic environments](http://openaccess.thecvf.com/content_ICCV_2019/papers/Huang_Prior_Guided_Dropout_for_Robust_Visual_Localization_in_Dynamic_Environments_ICCV_2019_paper.pdf) | |
 | Xue et al. | 2019/10 | ICCV |  [Local supports global: Deep camera relocalization with sequence enhancement](https://arxiv.org/abs/1908.04391)| |
 | CamNet | 2019/10 |  ICCV | [Camnet: Coarse-to-fine retrieval for camera re-localization](http://openaccess.thecvf.com/content_ICCV_2019/html/Ding_CamNet_Coarse-to-Fine_Retrieval_for_Camera_Re-Localization_ICCV_2019_paper.html)| |
+| Song et al. | 2019/11 | IROS | [Learning Local Feature Descriptor with Motion Attribute for Vision-based Localization](https://arxiv.org/abs/1908.01180) ||
 | GN-Net | 2020/01 | RA-L | [GN-Net: The Gauss-Newton Loss for Multi-Weather Relocalization](https://ieeexplore.ieee.org/abstract/document/8954808) | |
 | AtLoc | 2020/02 | AAAI | [AtLoc: Attention Guided Camera Localization](https://arxiv.org/abs/1909.03557) | |
 
@@ -35,11 +38,13 @@ A collection of deep learning based localization models
 | SfmLearner | 2017/07 | CVPR | [unsupervised learning of depth and ego-motion from video](http://openaccess.thecvf.com/content_cvpr_2018/papers/Mahjourian_Unsupervised_Learning_of_CVPR_2018_paper.pdf) | |
 | Yin et al. | 2017/10 | ICCV | [Scale Recovery for Monocular Visual Odometry Using Depth Estimated With Deep Convolutional Neural Fields](http://openaccess.thecvf.com/content_ICCV_2017/papers/Yin_Scale_Recovery_for_ICCV_2017_paper.pdf) | |
 | UnDeepVO | 2018/05 | ICRA | [UnDeepVO: Monocular Visual Odometry through Unsupervised Deep Learning](https://arxiv.org/abs/1709.06841) | |
+| Barnes et al. | 2018/05 | ICRA | [Driven to Distraction: Self-Supervised Distractor Learning for Robust Monocular Visual Odometry in Urban Environments](https://arxiv.org/abs/1711.06623) | |
 | GeoNet | 2018/06 | CVPR | [GeoNet: Unsupervised Learning of Dense Depth, Optical Flow and Camera Pose](https://arxiv.org/abs/1803.02276) | |
 | Zhan et al. | 2018/06 | CVPR | [Unsupervised Learning of Monocular Depth Estimation and Visual Odometry with Deep Feature Reconstruction](https://arxiv.org/abs/1803.03893) | |
 | LS-Net | 2018/09 | ECCV | [LS-Net: Learning to Solve Nonlinear Least Squares for Monocular Stereo](https://arxiv.org/abs/1809.02966) | |
 | Yang et al. | 2018/09 | ECCV | [Deep Virtual Stereo Odometry: Leveraging Deep Depth Prediction for Monocular Direct Sparse Odometry](https://arxiv.org/abs/1807.02570) | |
 | Zhao et al. | 2018/10 | IROS | [Learning monocular visual odometry with dense 3d mapping from dense 3d flow](https://arxiv.org/abs/1803.02286) | |
+| Turan et al. | 2018/10 | IROS | [Unsupervised Odometry and Depth Learning for Endoscopic Capsule Robots](https://arxiv.org/pdf/1803.01047.pdf) | |
 | BA-Net | 2019/04| ICLR | [BA-Net: Dense bundle adjustment network](https://arxiv.org/abs/1806.04807) | |
 | Saputra et al.| 2019/05 | ICRA | [Learning monocular visual odometry through geometry-aware curriculum learning](https://arxiv.org/abs/1903.10543) | |
 | GANVO | 2019/05 | ICRA | [GANVO: Unsupervised deep monocular visual odometry and depth estimation with generative adversarial networks](https://arxiv.org/abs/1809.05786) | |
@@ -49,6 +54,7 @@ A collection of deep learning based localization models
 | Li et al. | 2019/10 | ICCV | [Sequential adversarial learning for self-supervised deep visual odometry](https://arxiv.org/abs/1908.08704) | |
 | Sheng et al. | 2019/10 | ICCV | [Unsupervised collaborative learning of keyframe detection and visual odometry towards monocular deep slam](http://openaccess.thecvf.com/content_ICCV_2019/papers/Sheng_Unsupervised_Collaborative_Learning_of_Keyframe_Detection_and_Visual_Odometry_Towards_ICCV_2019_paper.pdf) | |
 | Saputra et al. | 2019/10 | ICCV | [Distilling knowledge from a deep pose regressor network](https://arxiv.org/abs/1908.00858) | |
+|  Koumis et al. | 2019/11 | IROS | [Estimating Metric Scale Visual Odometry from Videos using 3D Convolutional Networks](https://jpreiss.github.io/pubs/Koumis_Preiss_3DCVO_IROS2019.pdf) | |
 | Bian et al. | 2019/12 | NeurIPS | [Unsupervised Scale-consistent Depth and Ego-motion Learning from Monocular Video](https://papers.nips.cc/paper/8299-unsupervised-scale-consistent-depth-and-ego-motion-learning-from-monocular-video.pdf) | |
 
 
@@ -87,6 +93,7 @@ A collection of deep learning based localization models
 | Models   |Year/Month| Publication| Paper | Code |
 |----------|----|------------|------|---|
 | CodeSLAM | 2018/05 | CVPR | [CodeSLAM - Learning a Compact, Optimisable Representation for Dense Visual SLAM](https://arxiv.org/abs/1804.00874) | |
+| GEN-SLAM | 2019/05 | ICRA | [GEN-SLAM: Generative Modeling for Monocular Simultaneous Localization and Mapping](https://arxiv.org/abs/1902.02086) | |
 
 This list is maintained by Changhao Chen, a Ph.D. student at Department of Computer Science, University of Oxford.
 Please contact him (email: changhao.chen@cs.ox.ac.uk) if you have any question or would like to add your work on the list.
