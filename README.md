@@ -4,6 +4,7 @@ A collection of deep learning based localization models
 ## Category
 
 ## Camera Relocalization
+*The Year/Month in the table denotes the publication date (the date of a conference).
 | Models   |Year/Month| Publication| Paper | Code |
 |----------|----|------------|------|---|
 | PoseNet  | 2015/12 | ICCV | [PoseNet: A Convolutional Network for Real-Time 6-DOF Camera Relocalization](https://arxiv.org/abs/1505.07427)  | |
