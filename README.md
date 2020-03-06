@@ -19,3 +19,24 @@ A collection of deep learning based localization models
 | Huang et al. | 2019/10 | ICCV | [Prior guided dropout for robust visual localization in dynamic environments](http://openaccess.thecvf.com/content_ICCV_2019/papers/Huang_Prior_Guided_Dropout_for_Robust_Visual_Localization_in_Dynamic_Environments_ICCV_2019_paper.pdf) | |
 | Xue et al. | 2019/10 | ICCV |  [Local supports global: Deep camera relocalization with sequence enhancement](https://arxiv.org/abs/1908.04391)| |
 | CamNet | 2019/10 |  ICCV | [Camnet: Coarse-to-fine retrieval for camera re-localization](http://openaccess.thecvf.com/content_ICCV_2019/html/Ding_CamNet_Coarse-to-Fine_Retrieval_for_Camera_Re-Localization_ICCV_2019_paper.html)| |
+
+## Visual Odometry
+| Models   |Year/Month| Publication| Paper | Code |
+|----------|----|------------|------|---|
+| DeepVO | 2017/05 | ICRA | [DeepVO: Towards End-to-End Visual Odometry with Deep Recurrent Convolutional Neural Networks](https://arxiv.org/abs/1709.08429) | |
+| SfmLearner | 2017/07 | CVPR | [unsupervised learning of depth and ego-motion from video](http://openaccess.thecvf.com/content_cvpr_2018/papers/Mahjourian_Unsupervised_Learning_of_CVPR_2018_paper.pdf) | |
+| UnDeepVO | 2018/05 | ICRA | [UnDeepVO: Monocular Visual Odometry through Unsupervised Deep Learning](https://arxiv.org/abs/1709.06841) | |
+| GeoNet | 2018/06 | CVPR | [GeoNet: Unsupervised Learning of Dense Depth, Optical Flow and Camera Pose](https://arxiv.org/abs/1803.02276) | |
+| Zhan et al. | 2018/06 | CVPR | [Unsupervised Learning of Monocular Depth Estimation and Visual Odometry with Deep Feature Reconstruction](https://arxiv.org/abs/1803.03893) | |
+| Yang et al. | 2018/09 | ECCV | [Deep Virtual Stereo Odometry: Leveraging Deep Depth Prediction for Monocular Direct Sparse Odometry](https://arxiv.org/abs/1807.02570) | |
+| Zhao et al. | 2018/10 | IROS | [Learning monocular visual odometry with dense 3d mapping from dense 3d flow](https://arxiv.org/abs/1803.02286) | |
+| BA-Net | 2019/04| ICLR | [BA-Net: Dense bundle adjustment network](https://arxiv.org/abs/1806.04807) | |
+| Saputra et al.| 2019/05 | ICRA | [Learning monocular visual odometry through geometry-aware curriculum learning](https://arxiv.org/abs/1903.10543) | |
+| GANVO | 2019/05 | ICRA | [Ganvo: Unsupervised deep monocular visual odometry and depth estimation with generative adversarial networks](https://arxiv.org/abs/1809.05786) | |
+| Li et al. | 2019/05 | ICRA | [Pose graph optimization for unsupervised monocular visual odometry](https://arxiv.org/abs/1903.06315) | |
+
+## Visual-Inertial Odometry
+| Models   |Year/Month| Publication| Paper | Code |
+|----------|----|------------|------|---|
+| VINet | 2017/02 | AAAI | [VINet: Visual-Inertial Odometry as a Sequence-to-Sequence Learning Problem](https://arxiv.org/abs/1701.08376) | |
+| VIOLearner | 2019/04 | TPAMI | [Unsupervised deep visual-inertial odometry with online error correction for rgb-d imagery](https://ieeexplore.ieee.org/document/8691513) | |
