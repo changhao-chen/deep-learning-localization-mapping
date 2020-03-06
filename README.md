@@ -36,17 +36,19 @@ A collection of deep learning based localization models
 | UnDeepVO | 2018/05 | ICRA | [UnDeepVO: Monocular Visual Odometry through Unsupervised Deep Learning](https://arxiv.org/abs/1709.06841) | |
 | GeoNet | 2018/06 | CVPR | [GeoNet: Unsupervised Learning of Dense Depth, Optical Flow and Camera Pose](https://arxiv.org/abs/1803.02276) | |
 | Zhan et al. | 2018/06 | CVPR | [Unsupervised Learning of Monocular Depth Estimation and Visual Odometry with Deep Feature Reconstruction](https://arxiv.org/abs/1803.03893) | |
+| LS-Net | 2018/09 | ECCV | [LS-Net: Learning to Solve Nonlinear Least Squares for Monocular Stereo](https://arxiv.org/abs/1809.02966) | |
 | Yang et al. | 2018/09 | ECCV | [Deep Virtual Stereo Odometry: Leveraging Deep Depth Prediction for Monocular Direct Sparse Odometry](https://arxiv.org/abs/1807.02570) | |
 | Zhao et al. | 2018/10 | IROS | [Learning monocular visual odometry with dense 3d mapping from dense 3d flow](https://arxiv.org/abs/1803.02286) | |
 | BA-Net | 2019/04| ICLR | [BA-Net: Dense bundle adjustment network](https://arxiv.org/abs/1806.04807) | |
 | Saputra et al.| 2019/05 | ICRA | [Learning monocular visual odometry through geometry-aware curriculum learning](https://arxiv.org/abs/1903.10543) | |
-| GANVO | 2019/05 | ICRA | [Ganvo: Unsupervised deep monocular visual odometry and depth estimation with generative adversarial networks](https://arxiv.org/abs/1809.05786) | |
+| GANVO | 2019/05 | ICRA | [GANVO: Unsupervised deep monocular visual odometry and depth estimation with generative adversarial networks](https://arxiv.org/abs/1809.05786) | |
 | Li et al. | 2019/05 | ICRA | [Pose graph optimization for unsupervised monocular visual odometry](https://arxiv.org/abs/1903.06315) | |
 | Xue et al.| 2019/06 | CVPR | [Beyond tracking: Selecting memory and refining poses for deep visual odometry](https://arxiv.org/abs/1904.01892) | |
 | Wang et al.| 2019/06 | CVPR | [Recurrent neural network for (un-) supervised learning of monocular video visual odometry and depth](https://arxiv.org/abs/1904.07087) | |
 | Li et al. | 2019/10 | ICCV | [Sequential adversarial learning for self-supervised deep visual odometry](https://arxiv.org/abs/1908.08704) | |
 | Sheng et al. | 2019/10 | ICCV | [Unsupervised collaborative learning of keyframe detection and visual odometry towards monocular deep slam](http://openaccess.thecvf.com/content_ICCV_2019/papers/Sheng_Unsupervised_Collaborative_Learning_of_Keyframe_Detection_and_Visual_Odometry_Towards_ICCV_2019_paper.pdf) | |
-| Saputra et al. | 2019/10 | ICCV| [Distilling knowledge from a deep pose regressor network](https://arxiv.org/abs/1908.00858) | |
+| Saputra et al. | 2019/10 | ICCV | [Distilling knowledge from a deep pose regressor network](https://arxiv.org/abs/1908.00858) | |
+| Bian et al. | 2019/12 | NeurIPS | [Unsupervised Scale-consistent Depth and Ego-motion Learning from Monocular Video](https://papers.nips.cc/paper/8299-unsupervised-scale-consistent-depth-and-ego-motion-learning-from-monocular-video.pdf) | |
 
 
 ## Visual-Inertial Odometry
