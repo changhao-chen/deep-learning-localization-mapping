@@ -34,9 +34,28 @@ A collection of deep learning based localization models
 | Saputra et al.| 2019/05 | ICRA | [Learning monocular visual odometry through geometry-aware curriculum learning](https://arxiv.org/abs/1903.10543) | |
 | GANVO | 2019/05 | ICRA | [Ganvo: Unsupervised deep monocular visual odometry and depth estimation with generative adversarial networks](https://arxiv.org/abs/1809.05786) | |
 | Li et al. | 2019/05 | ICRA | [Pose graph optimization for unsupervised monocular visual odometry](https://arxiv.org/abs/1903.06315) | |
+| Xue et al.| 2019/06 | CVPR | [Beyond tracking: Selecting memory and refining poses for deep visual odometry](https://arxiv.org/abs/1904.01892) | |
+| Wang et al.| 2019/06 | CVPR | [Recurrent neural network for (un-) supervised learning of monocular video visual odometry and depth](https://arxiv.org/abs/1904.07087) | |
+| Li et al. | 2019/10 | ICCV | [Sequential adversarial learning for self-supervised deep visual odometry](https://arxiv.org/abs/1908.08704) | |
+| Sheng et al. | 2019/10 | ICCV | [Unsupervised collaborative learning of keyframe detection and visual odometry towards monocular deep slam](http://openaccess.thecvf.com/content_ICCV_2019/papers/Sheng_Unsupervised_Collaborative_Learning_of_Keyframe_Detection_and_Visual_Odometry_Towards_ICCV_2019_paper.pdf) | |
+| Saputra et al. | 2019/10 | ICCV| [Distilling knowledge from a deep pose regressor network](https://arxiv.org/abs/1908.00858) | |
+
 
 ## Visual-Inertial Odometry
 | Models   |Year/Month| Publication| Paper | Code |
 |----------|----|------------|------|---|
 | VINet | 2017/02 | AAAI | [VINet: Visual-Inertial Odometry as a Sequence-to-Sequence Learning Problem](https://arxiv.org/abs/1701.08376) | |
 | VIOLearner | 2019/04 | TPAMI | [Unsupervised deep visual-inertial odometry with online error correction for rgb-d imagery](https://ieeexplore.ieee.org/document/8691513) | |
+| DeepVIO | 2019/11 | IROS | [DeepVIO: Self-supervised deep learning of monocular visual inertial odometry using 3d geometric constraints](https://arxiv.org/abs/1906.11435) | |
+
+
+## Inertial Positioning (Odometry)
+| Models   |Year/Month| Publication| Paper | Code |
+|----------|----|------------|------|---|
+
+## LIDAR Positioning (Odometry)
+| Models   |Year/Month| Publication| Paper | Code |
+|----------|----|------------|------|---|
+| LO-Net | 2019/06 | CVPR | [LO-Net: Deep Real-time Lidar Odometry](https://arxiv.org/abs/1904.08242) | |
+| L3-Net | 2019/06 | CVPR | [L3-Net: Towards Learning based LiDAR Localization for Autonomous Driving](https://songshiyu01.github.io/pdf/L3Net_W.Lu_Y.Zhou_S.Song_CVPR2019.pdf) | |
+| Valente et al. | 2019/11 | IROS | [Deep sensor fusion for real-time odometry estimation](https://ieeexplore.ieee.org/document/8967803) | |
