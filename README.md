@@ -25,6 +25,7 @@ A collection of deep learning based localization models
 ## Visual Odometry
 | Models   |Year/Month| Publication| Paper | Code |
 |----------|----|------------|------|---|
+| Konda et al. | 2015/03 | VISAPP | [Learning visual odometry with a convolutional network](https://www.iro.umontreal.ca/~memisevr/pubs/VISAPP2015.pdf) | |
 | DeepVO | 2017/05 | ICRA | [DeepVO: Towards End-to-End Visual Odometry with Deep Recurrent Convolutional Neural Networks](https://arxiv.org/abs/1709.08429) | |
 | SfmLearner | 2017/07 | CVPR | [unsupervised learning of depth and ego-motion from video](http://openaccess.thecvf.com/content_cvpr_2018/papers/Mahjourian_Unsupervised_Learning_of_CVPR_2018_paper.pdf) | |
 | UnDeepVO | 2018/05 | ICRA | [UnDeepVO: Monocular Visual Odometry through Unsupervised Deep Learning](https://arxiv.org/abs/1709.06841) | |
