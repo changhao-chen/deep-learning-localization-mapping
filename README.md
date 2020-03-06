@@ -1,7 +1,8 @@
 # Deep Learning based Localization
 A collection of deep learning based localization models
 
-Please contact Changhao Chen (email: changhao.chen@cs.ox.ac.uk) if you have any question or would like to add your work on the list.
+This list is maintained by Changhao Chen, a Ph.D. student at Department of Computer Science, University of Oxford.
+Please contact him (email: changhao.chen@cs.ox.ac.uk) if you have any question or would like to add your work on the list.
 
 ## Category
 
