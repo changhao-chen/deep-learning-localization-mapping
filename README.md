@@ -8,27 +8,49 @@ A collection of deep learning based localization models
 | Models   |Year/Month| Publication| Paper | Code |
 |----------|----|------------|------|---|
 | PoseNet  | 2015/12 | ICCV | [PoseNet: A Convolutional Network for Real-Time 6-DOF Camera Relocalization](https://arxiv.org/abs/1505.07427)  | |
+| Bayesian PoseNet  | 2016/05 | ICRA | [Modelling uncertainty in deep learning for camera relocalization](https://arxiv.org/abs/1509.05909)  | |
 | VidLoc   | 2017/07 | CVPR | [VidLoc: A Deep Spatio-Temporal Model for 6-DoF Video-Clip Relocalization](https://arxiv.org/abs/1702.06521)  | |
 | PoseNet+ | 2017/07 | CVPR | [Geometric loss functions for camera pose regression with deep learning](http://openaccess.thecvf.com/content_cvpr_2017/html/Kendall_Geometric_Loss_Functions_CVPR_2017_paper.html) | |
 | DSAC | 2017/07 | CVPR | [DSAC - Differentiable RANSAC for Camera Localization](http://openaccess.thecvf.com/content_cvpr_2017/html/Brachmann_DSAC_-_Differentiable_CVPR_2017_paper.html) | | 
+| Kim et al. | 2017/07 | CVPR | [Learned Contextual Feature Reweighting for Image Geo-Localization](http://openaccess.thecvf.com/content_cvpr_2017/papers/Kim_Learned_Contextual_Feature_CVPR_2017_paper.pdf) | | 
 | Naseer et al. | 2017/09 | IROS | [Deep Regression for Monocular Camera-based 6-DoF Global Localization in Outdoor Environments](http://ais.informatik.uni-freiburg.de/publications/papers/naseer17iros.pdf)| |
 | LSTM-PoseNet | 2017/10| ICCV | [Image-based localization using lstms for structured feature correlation](https://arxiv.org/abs/1611.07890) | |
+| Laskar et al. | 2017/10| ICCV Workshops | [Camera Relocalization by Computing Pairwise Relative Poses Using Convolutional Neural Network](http://openaccess.thecvf.com/content_ICCV_2017_workshops/papers/w17/Laskar_Camera_Relocalization_by_ICCV_2017_paper.pdf) | |
+| X-View | 2018/02 | RA-L | [X-View: Graph-Based Semantic Multi-View Localization](https://arxiv.org/abs/1709.09905)| |
+| Hourglass PoseNet | 2017/10| ICCV Workshops | [Image-based localization using hourglass networks](http://openaccess.thecvf.com/content_ICCV_2017_workshops/w17/html/Melekhov_Image-Based_Localization_Using_ICCV_2017_paper.html) | |
 | VLocNet | 2018/05 | ICRA | [Deep auxiliary learning for visual localization and odometry](https://arxiv.org/abs/1803.03642)| |
 | ContextualNet | 2018/05 | ICRA | [ContextualNet: Exploiting Contextual Information using LSTMs to Improve Image-based Localization](https://ieeexplore.ieee.org/document/8461124)| |
 | MapNet | 2018/06 | CVPR | [Geometry-Aware Learning of Maps for Camera Localization](https://arxiv.org/abs/1712.03342)| |
-| Brachmann et al. | 2018/06 | CVPR | [Learning less is more-6d camera localization via 3d surface regression](https://arxiv.org/abs/1711.10228) | |
+| DSAC++ | 2018/06 | CVPR | [Learning less is more-6d camera localization via 3d surface regression](https://arxiv.org/abs/1711.10228) | |
 | Sattler et al. | 2018/06 | CVPR | [Benchmarking 6DOF Outdoor Visual Localization in Changing Conditions](http://openaccess.thecvf.com/content_cvpr_2018/html/Sattler_Benchmarking_6DOF_Outdoor_CVPR_2018_paper.html) | |
 | Schonberger et al.| 2018/06 | CVPR | [Semantic Visual Localization](http://openaccess.thecvf.com/content_cvpr_2018/papers/Schonberger_Semantic_Visual_Localization_CVPR_2018_paper.pdf) | |
 | InLoc | 2018/06 | CVPR | [InLoc: Indoor Visual Localization with Dense Matching and View Synthesis](http://openaccess.thecvf.com/content_cvpr_2018/papers/Taira_InLoc_Indoor_Visual_CVPR_2018_paper.pdf) | |
+| Li et al. | 2018/07 | RSS | [Full-Frame Scene Coordinate Regression for Image-Based Localization](https://arxiv.org/abs/1802.03237) | |
+| DSAC++ angle loss | 2018/09 | ECCV | [Scene coordinate regression with angle-based reprojection loss for camera relocalization](http://openaccess.thecvf.com/content_eccv_2018_workshops/w16/html/Li_Scene_Coordinate_Regression_with_Angle-Based_Reprojection_Loss_for_Camera_Relocalization_ECCVW_2018_paper.html) | |
+| RelocNet | 2018/09 | ECCV | [RelocNet: Continuous Metric Learning Relocalisation using Neural Nets](http://openaccess.thecvf.com/content_ECCV_2018/papers/Vassileios_Balntas_RelocNet_Continous_Metric_ECCV_2018_paper.pdf) | |
+| Bui et al. | 2018/09 | BMVC | [Scene Coordinate and Correspondence Learning for Image-Based Localization](https://arxiv.org/abs/1805.08443) | |
+| VLocNet++ | 2018/09 | RA-L | [Vlocnet++: Deep multitask learning for semantic visual localization and odometry](https://arxiv.org/abs/1804.08366)| |
 | Piasco et al. | 2019/05 | ICRA | [Learning scene geometry for visual localization in challenging conditions](https://hal.archives-ouvertes.fr/hal-02057378/document)| |
 | Amini et al. | 2019/05 | ICRA | [Variational End-to-End Navigation and Localization](https://arxiv.org/abs/1811.10119) | |
+| Sattler et al. | 2019/06 | CVPR | [Understanding the Limitations of CNN-based Absolute Camera Pose Regression](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sattler_Understanding_the_Limitations_of_CNN-Based_Absolute_Camera_Pose_Regression_CVPR_2019_paper.pdf)| |
+| Sarlin et al. | 2019/06 | CVPR | [From Coarse to Fine: Robust Hierarchical Localization at Large Scale](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sarlin_From_Coarse_to_Fine_Robust_Hierarchical_Localization_at_Large_Scale_CVPR_2019_paper.pdf)| |
+| NG-RANSAC | 2019/06 | CVPR | [Neural-Guided RANSAC: Learning Where to Sample Model Hypotheses](http://openaccess.thecvf.com/content_ICCV_2019/papers/Brachmann_Neural-Guided_RANSAC_Learning_Where_to_Sample_Model_Hypotheses_ICCV_2019_paper.pdf)| |
+| Liu et al. | 2019/06 | CVPR | [Lending Orientation to Neural Networks for Cross-view Geo-localization](http://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_Lending_Orientation_to_Neural_Networks_for_Cross-View_Geo-Localization_CVPR_2019_paper.pdf)| |
+| Weinzaepfel et al. | 2019/06 | CVPR | [Visual Localization by Learning Objects-of-Interest Dense Match Regression](http://openaccess.thecvf.com/content_CVPR_2019/papers/Weinzaepfel_Visual_Localization_by_Learning_Objects-Of-Interest_Dense_Match_Regression_CVPR_2019_paper.pdf)| |
+| NG-RANSAC | 2019/06 | CVPR | [Neural-Guided RANSAC: Learning Where to Sample Model Hypotheses](http://openaccess.thecvf.com/content_ICCV_2019/papers/Brachmann_Neural-Guided_RANSAC_Learning_Where_to_Sample_Model_Hypotheses_ICCV_2019_paper.pdf)| |
 | SANet | 2019/10 | ICCV | [SANet: scene agnostic network for camera localization](http://openaccess.thecvf.com/content_ICCV_2019/papers/Yang_SANet_Scene_Agnostic_Network_for_Camera_Localization_ICCV_2019_paper.pdf)| |
 | Huang et al. | 2019/10 | ICCV | [Prior guided dropout for robust visual localization in dynamic environments](http://openaccess.thecvf.com/content_ICCV_2019/papers/Huang_Prior_Guided_Dropout_for_Robust_Visual_Localization_in_Dynamic_Environments_ICCV_2019_paper.pdf) | |
 | Xue et al. | 2019/10 | ICCV |  [Local supports global: Deep camera relocalization with sequence enhancement](https://arxiv.org/abs/1908.04391)| |
 | CamNet | 2019/10 |  ICCV | [Camnet: Coarse-to-fine retrieval for camera re-localization](http://openaccess.thecvf.com/content_ICCV_2019/html/Ding_CamNet_Coarse-to-Fine_Retrieval_for_Camera_Re-Localization_ICCV_2019_paper.html)| |
+| ESAC | 2019/10 |  ICCV | [Expert Sample Consensus Applied to Camera Re-Localization](http://openaccess.thecvf.com/content_ICCV_2019/html/Ding_CamNet_Coarse-to-Fine_Retrieval_for_Camera_Re-Localization_ICCV_2019_paper.html)| |
+| Taira et al. | 2019/10 |  ICCV | [Is This The Right Place? Geometric-Semantic Pose Verification for Indoor Visual Localization](http://openaccess.thecvf.com/content_ICCV_2019/papers/Taira_Is_This_the_Right_Place_Geometric-Semantic_Pose_Verification_for_Indoor_ICCV_2019_paper.pdf)| |
+| Liu et al. | 2019/10 |  ICCV | [Stochastic Attraction-Repulsion Embedding for Large Scale Image Localization](http://openaccess.thecvf.com/content_ICCV_2019/papers/Liu_Stochastic_Attraction-Repulsion_Embedding_for_Large_Scale_Image_Localization_ICCV_2019_paper.pdf)| |
+| FGSN | 2019/10 |  ICCV | [Fine-Grained Segmentation Networks: Self-Supervised Segmentation for Improved Long-Term Visual Localization](http://openaccess.thecvf.com/content_ICCV_2019/papers/Larsson_Fine-Grained_Segmentation_Networks_Self-Supervised_Segmentation_for_Improved_Long-Term_Visual_Localization_ICCV_2019_paper.pdf)| |
+| Cheng et al. | 2019/10 |  ICCV | [Cascaded Parallel Filtering for Memory-Efficient Image-Based Localization](http://openaccess.thecvf.com/content_ICCV_2019/papers/Cheng_Cascaded_Parallel_Filtering_for_Memory-Efficient_Image-Based_Localization_ICCV_2019_paper.pdf)| |
 | Song et al. | 2019/11 | IROS | [Learning Local Feature Descriptor with Motion Attribute for Vision-based Localization](https://arxiv.org/abs/1908.01180) ||
 | GN-Net | 2020/01 | RA-L | [GN-Net: The Gauss-Newton Loss for Multi-Weather Relocalization](https://ieeexplore.ieee.org/abstract/document/8954808) | |
 | AtLoc | 2020/02 | AAAI | [AtLoc: Attention Guided Camera Localization](https://arxiv.org/abs/1909.03557) | |
+| Zhou et al. | 2020/05 | ICRA | [To Learn or Not to Learn: Visual Localization from Essential Matrices](https://arxiv.org/abs/1908.01293) | |
 
 ## Visual Odometry
 | Models   |Year/Month| Publication| Paper | Code |
