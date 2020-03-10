@@ -1,4 +1,4 @@
-# Deep Learning based Localization
+# Deep Learning for Localization and Mapping
 A collection of deep learning based localization models
 
 ## Category
@@ -117,5 +117,5 @@ A collection of deep learning based localization models
 | CodeSLAM | 2018/05 | CVPR | [CodeSLAM - Learning a Compact, Optimisable Representation for Dense Visual SLAM](https://arxiv.org/abs/1804.00874) | |
 | GEN-SLAM | 2019/05 | ICRA | [GEN-SLAM: Generative Modeling for Monocular Simultaneous Localization and Mapping](https://arxiv.org/abs/1902.02086) | |
 
-This list is maintained by Changhao Chen, a Ph.D. student at Department of Computer Science, University of Oxford.
+This list is maintained by [Changhao Chen](http://www.cs.ox.ac.uk/people/changhao.chen/website/) and [Bing Wang](http://www.cs.ox.ac.uk/people/bing.wang/), Department of Computer Science, University of Oxford.
 Please contact him (email: changhao.chen@cs.ox.ac.uk) if you have any question or would like to add your work on the list.
