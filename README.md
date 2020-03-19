@@ -108,6 +108,7 @@ A collection of deep learning based localization and mapping models
 | Models   |Year/Month| Publication| Paper | Code |
 |----------|----|------------|------|---|
 | DeLS-3D | 2018/06 | CVPR | [DeLS-3D: Deep Localization and Segmentation with a 3D Semantic Map](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_DeLS-3D_Deep_Localization_CVPR_2018_paper.pdf) | |
+| Barsan et al. | 2018/09 | CoRL | [Learning to Localize Using a LiDAR Intensity Map](https://pdfs.semanticscholar.org/dde4/b101c74d8922be2b94db9490ba1bfc8d88ea.pdf) | |
 | LO-Net | 2019/06 | CVPR | [LO-Net: Deep Real-time Lidar Odometry](https://arxiv.org/abs/1904.08242) | |
 | L3-Net | 2019/06 | CVPR | [L3-Net: Towards Learning based LiDAR Localization for Autonomous Driving](https://songshiyu01.github.io/pdf/L3Net_W.Lu_Y.Zhou_S.Song_CVPR2019.pdf) | |
 | DeepPCO | 2019/11 | IROS | [DeepPCO: End-to-End Point Cloud Odometry through Deep Parallel Neural Network](https://arxiv.org/abs/1910.11088) | |
