@@ -1,6 +1,8 @@
 # Deep Learning for Localization and Mapping
 A collection of deep learning based localization and mapping models
 
+![image](image/concept_figure.png)
+
 ## Category
 
 ## Camera Relocalization
