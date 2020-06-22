@@ -47,13 +47,16 @@ This repository is a collection of deep learning based localization and mapping 
 | Yang et al. | 2018 | ECCV | [Deep Virtual Stereo Odometry: Leveraging Deep Depth Prediction for Monocular Direct Sparse Odometry](https://arxiv.org/abs/1807.02570) | |
 | Zhao et al. | 2018 | IROS | [Learning monocular visual odometry with dense 3d mapping from dense 3d flow](https://arxiv.org/abs/1803.02286) | |
 | Turan et al. | 2018 | IROS | [Unsupervised Odometry and Depth Learning for Endoscopic Capsule Robots](https://arxiv.org/pdf/1803.01047.pdf) | |
+| Struct2Depth | 2019 | AAAI | [Depth Prediction Without the Sensors: Leveraging Structure for Unsupervised Learning from Monocular Videos](https://arxiv.org/abs/1811.06152) | [TF](https://github.com/tensorflow/models/tree/master/research/struct2depth) |
 | Saputra et al.| 2019 | ICRA | [Learning monocular visual odometry through geometry-aware curriculum learning](https://arxiv.org/abs/1903.10543) | |
 | GANVO | 2019 | ICRA | [GANVO: Unsupervised deep monocular visual odometry and depth estimation with generative adversarial networks](https://arxiv.org/abs/1809.05786) | |
+| CNN-SVO | 2019 | ICRA | [CNN-SVO: Improving the Mapping in Semi-Direct Visual Odometry Using Single-Image Depth Prediction](https://ieeexplore.ieee.org/document/8794425) | [ROS](https://github.com/yan99033/CNN-SVO) |
 | Li et al. | 2019 | ICRA | [Pose graph optimization for unsupervised monocular visual odometry](https://arxiv.org/abs/1903.06315) | |
 | Xue et al.| 2019 | CVPR | [Beyond tracking: Selecting memory and refining poses for deep visual odometry](https://arxiv.org/abs/1904.01892) | |
 | Wang et al.| 2019 | CVPR | [Recurrent neural network for (un-) supervised learning of monocular video visual odometry and depth](https://arxiv.org/abs/1904.07087) | |
 | Li et al. | 2019 | ICCV | [Sequential adversarial learning for self-supervised deep visual odometry](https://arxiv.org/abs/1908.08704) | |
 | Saputra et al. | 2019 | ICCV | [Distilling knowledge from a deep pose regressor network](https://arxiv.org/abs/1908.00858) | |
+| Gordon et al. | 2019 | ICCV | [Depth from videos in the wild: Unsupervised monocular depth learning from unknown cameras](https://arxiv.org/abs/1904.04998) | [TF](https://github.com/google-research/google-research/tree/master/depth_from_video_in_the_wild) |
 |  Koumis et al. | 2019 | IROS | [Estimating Metric Scale Visual Odometry from Videos using 3D Convolutional Networks](https://jpreiss.github.io/pubs/Koumis_Preiss_3DCVO_IROS2019.pdf) | |
 | Bian et al. | 2019 | NeurIPS | [Unsupervised Scale-consistent Depth and Ego-motion Learning from Monocular Video](https://papers.nips.cc/paper/8299-unsupervised-scale-consistent-depth-and-ego-motion-learning-from-monocular-video.pdf) | [PT](https://github.com/JiawangBian/SC-SfMLearner-Release) |
 | D3VO | 2020 | CVPR | [D3VO: Deep Depth, Deep Pose and Deep Uncertainty for Monocular Visual Odometry](https://arxiv.org/pdf/2003.01060.pdf#page=9&zoom=100,412,902) | |
