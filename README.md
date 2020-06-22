@@ -17,7 +17,7 @@ This repository is a collection of deep learning based localization and mapping 
 -[Simultaneous Localization and Mapping (SLAM)](#slam)
 
 ## Categorized by Topic
-### global0localization
+### global localization
 *The Year/Month in the table denotes the publication date (date of conference).
 | Models   |Year| Publication| Paper | Code |
 |----------|----|------------|------|---|
