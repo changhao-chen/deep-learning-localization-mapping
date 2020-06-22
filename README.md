@@ -9,8 +9,11 @@ This repository is a collection of deep learning based localization and mapping 
 
 ## Category
 -[Odometry Estimation](#odometry)
+
 -[Mapping](#mapping)
+
 -[Global localization](#global-localization)
+
 -[Simultaneous Localization and Mapping (SLAM)](#slam)
 
 ## Categorized by Topic
