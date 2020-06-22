@@ -1,13 +1,22 @@
 # Deep Learning for Localization and Mapping
-A collection of deep learning based localization and mapping models
 
 ![image](image/concept_figure.png)
+This repository is a collection of deep learning based localization and mapping approaches. 
+
+## News
+## Update: Jun-22-2020
+- We released our survey paper "A Survey on Deep Learning for localization and mapping: Towards the Age of Spatial Machine Intelligence".
 
 ## Category
+-[Odometry Estimation](#odometry)
+-[Mapping](#mapping)
+-[Global localization](#global-localization)
+-[Simultaneous Localization and Mapping (SLAM)](#slam)
 
-## Camera Relocalization
+## Categorized by Topic
+### global0localization
 *The Year/Month in the table denotes the publication date (date of conference).
-| Models   |Year/Month| Publication| Paper | Code |
+| Models   |Year| Publication| Paper | Code |
 |----------|----|------------|------|---|
 | PoseNet  | 2015/12 | ICCV | [PoseNet: A Convolutional Network for Real-Time 6-DOF Camera Relocalization](https://arxiv.org/abs/1505.07427)  | |
 | Bayesian PoseNet  | 2016/05 | ICRA | [Modelling uncertainty in deep learning for camera relocalization](https://arxiv.org/abs/1509.05909)  | |
