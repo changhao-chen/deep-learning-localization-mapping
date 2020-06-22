@@ -9,13 +9,24 @@ This repository is a collection of deep learning based localization and mapping 
 
 ## Category
 -[Odometry Estimation](#Odometry-Estimation)
-
+  -[Visual Odometry](#Visual-Odometry)
+  -[Visual-Inertial Odometry](#Visual-Inertial-Odometry)
+  -[Inertial Odometry](#Inertial-Odometry)
+  -[LIDAR Odometry](#LIDAR-Odometry)
 -[Mapping](#mapping)
-
--[Global localization](#global-localization)
-
--[Simultaneous Localization and Mapping (SLAM)](#slam)
-
+  -[Geometric Mapping](#Geometric-Mapping)
+  -[Semantic Mapping](#Semantic-Mapping)
+  -[General Mapping](#General-Mapping)
+-[Global localization](#Global-Localization)
+  -[2D-to-2D Localization](#2D-to-2D-Localization)
+  -[2D-to-3D Localization](#2D-to-3D-Localization)
+  -[3D-to-3D Localization](#3D-to-3D-Localization)
+-[Simultaneous Localization and Mapping (SLAM)](#SLAM)
+  -[Local Optimization](#Local-Optimization)
+  -[Global Optimization](#Global-Optimization)
+  -[Keyframe and Loop-closure Detection](#Keyframe-and-Loop-closure-Detection)
+  -[Uncertainty Estimation](#Uncertainty Estimation)
+  
 ## Categorized by Topic
 *The Date in the table denotes the publication date (e.g. date of conference).
 ### Odometry Estimation
@@ -71,7 +82,7 @@ This repository is a collection of deep learning based localization and mapping 
 | OriNet | 2019 | RA-L | [OriNet: Robust 3-D Orientation Estimation With a Single Particular IMU](https://ieeexplore.ieee.org/abstract/document/8931590) | |
 | L-IONet | 2020| IOT-J | [Deep Learning based Pedestrian Inertial Navigation: Methods, Dataset and On-Device Inference](https://arxiv.org/abs/2001.04061) | |
 
-## LIDAR Odometry
+#### LIDAR Odometry
 | Models   |Year/Month| Publication| Paper | Code |
 |----------|----|------------|------|---|
 | DeLS-3D | 2018/06 | CVPR | [DeLS-3D: Deep Localization and Segmentation with a 3D Semantic Map](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_DeLS-3D_Deep_Localization_CVPR_2018_paper.pdf) | |
@@ -81,7 +92,19 @@ This repository is a collection of deep learning based localization and mapping 
 | DeepPCO | 2019/11 | IROS | [DeepPCO: End-to-End Point Cloud Odometry through Deep Parallel Neural Network](https://arxiv.org/abs/1910.11088) | |
 | Valente et al. | 2019/11 | IROS | [Deep sensor fusion for real-time odometry estimation](https://ieeexplore.ieee.org/document/8967803) | |
 
-### global localization
+### Mapping
+#### Geometric Mapping
+
+#### Semantic Mapping
+
+#### General Mapping
+
+### Global Localization
+#### 2D-to-2D Localization
+
+#### 2D-to-3D Localization
+
+#### 3D-to-3D Localization
 | Models   |Year| Publication| Paper | Code |
 |----------|----|------------|------|---|
 | PoseNet  | 2015/12 | ICCV | [PoseNet: A Convolutional Network for Real-Time 6-DOF Camera Relocalization](https://arxiv.org/abs/1505.07427)  | |
@@ -129,13 +152,15 @@ This repository is a collection of deep learning based localization and mapping 
 | AtLoc | 2020/02 | AAAI | [AtLoc: Attention Guided Camera Localization](https://arxiv.org/abs/1909.03557) | |
 | Zhou et al. | 2020/05 | ICRA | [To Learn or Not to Learn: Visual Localization from Essential Matrices](https://arxiv.org/abs/1908.01293) | |
 
-## Map Representation
+### SLAM
+
+#### Map Representation
 | Models   |Year/Month| Publication| Paper | Code |
 |----------|----|------------|------|---|
 | CodeSLAM | 2018/05 | CVPR | [CodeSLAM - Learning a Compact, Optimisable Representation for Dense Visual SLAM](https://arxiv.org/abs/1804.00874) | |
 | GEN-SLAM | 2019/05 | ICRA | [GEN-SLAM: Generative Modeling for Monocular Simultaneous Localization and Mapping](https://arxiv.org/abs/1902.02086) | |
 
-## SLAM Backend
+#### SLAM Backend
 | Models   |Year/Month| Publication| Paper | Code |
 |----------|----|------------|------|---|
 | LS-Net | 2018/09 | ECCV | [LS-Net: Learning to Solve Nonlinear Least Squares for Monocular Stereo](https://arxiv.org/abs/1809.02966) | |
