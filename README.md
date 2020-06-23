@@ -132,8 +132,30 @@ This repository is a collection of deep learning based localization and mapping 
 | Bloesch et al. | 2019 | ICCV | [Learning meshes for dense visual SLAM](https://www.imperial.ac.uk/media/imperial-college/research-centres-and-groups/dyson-robotics-lab/mbloesch_etal_iccv2019.pdf) | |
 
 #### Semantic Mapping
+| Models   |Date| Publication| Paper | Code |
+|----------|----|------------|------|---|
+| SemanticFusion | 2017 | ICRA | [Semanticfusion: Dense 3d semantic mapping with convolutional neural networks](https://arxiv.org/abs/1609.05130) | |
+| DA-RNN | 2017 | RSS | [DA-RNN: Semantic mapping with data associated recurrent neural networks](https://arxiv.org/abs/1703.03098) | |
+| Ma et al. | 2017 | IROS | [Multi-view deep learning for consistent semantic mapping with rgb-d cameras](https://arxiv.org/abs/1703.08866) | |
+| Sunderhauf et al. | 2017 | IROS | [Meaningful maps with object-oriented semantic mapping](https://arxiv.org/abs/1609.07849) | |
+| Fusion++ | 2018 | 3DV | [Fusion++: Volumetric object-level SLAM](https://arxiv.org/abs/1808.08378) | |
+| Grinvald et al. | 2019 | RA-L | [Volumetric instance-aware semantic mapping and 3d object discovery](https://arxiv.org/abs/1903.00268) | |
+| PanopticFusion | 2019 | IROS | [Panopticfusion: Online volumetric semantic mapping at the level of stuff and things](https://arxiv.org/abs/1903.01177) | |
 
 #### General Mapping
+* neural scene representation, task-driven representation 
+
+| Models   |Date| Publication| Paper | Code |
+|----------|----|------------|------|---|
+| Mirowski et al. | 2017 | ICLR | [Learning to navigate in complex environments](https://arxiv.org/abs/1611.03673) | |
+| Zhu et al. | 2017 | ICRA | [Target-driven visual navigation in indoor scenes using deep reinforcement learning](https://arxiv.org/abs/1609.05143) | |
+| Eslami et al. | 2018 | Science | [Neural scene representation and rendering](https://science.sciencemag.org/content/360/6394/1204) | |
+| CodeSLAM | 2018 | CVPR | [CodeSLAM — Learning a Compact, Optimisable Representation for Dense Visual SLAM](https://arxiv.org/abs/1804.00874) | |
+| Mirowski et al. | 2018 | NeurIPS | [Learning to navigate in cities without a map](https://arxiv.org/abs/1804.00168) | | 
+| SRN | 2019 | NeurIPS | [Scene representation networks: Continuous 3d-structure-aware neural scene representations](https://arxiv.org/abs/1906.01618) | |
+| Tobin et al. | 2019 | NeurIPS | [Geometry-aware neural rendering](https://arxiv.org/abs/1911.04554) | |
+| Lim et al. | 2019 | NeurIPS | [Neural multisensory scene inference](https://arxiv.org/abs/1910.02344) | |
+
 
 ### Global Localization
 #### 2D-to-2D Localization
