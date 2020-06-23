@@ -76,24 +76,22 @@ This repository is a collection of deep learning based localization and mapping 
 | Models   |Date| Publication| Paper | Code |
 |----------|----|------------|------|---|
 | IONet | 2018 | AAAI | [IONet: Learning to Cure the Curse of Drift in Inertial Odometry](https://arxiv.org/abs/1802.02209) | |
-| RIDI | 2018 | ECCV | [RIDI: Robust IMU Double Integration](https://arxiv.org/abs/1712.09004) | |
-| Wagstaff et al. | 2018/09 | IPIN | [LSTM-Based Zero-Velocity Detection for Robust Inertial Navigation](https://ieeexplore.ieee.org/abstract/document/8533770) | |
+| RIDI | 2018 | ECCV | [RIDI: Robust IMU Double Integration](https://arxiv.org/abs/1712.09004) | [Py](https://github.com/higerra/ridi_imu) |
+| Wagstaff et al. | 2018 | IPIN | [LSTM-Based Zero-Velocity Detection for Robust Inertial Navigation](https://ieeexplore.ieee.org/abstract/document/8533770) | [PT](https://github.com/utiasSTARS/pyshoe) |
 | Cortes et al. | 2019 | MLSP | [Deep Learning Based Speed Estimation for Constraining Strapdown Inertial Navigation on Smartphones](https://ieeexplore.ieee.org/abstract/document/8516710) | |
 | MotionTransformer| 2019 | AAAI | [MotionTransformer: Transferring Neural Inertial Tracking between Domains](https://www.aaai.org/ojs/index.php/AAAI/article/view/4802) | |
 | AbolDeepIO | 2019 | TITS | [AbolDeepIO: A Novel Deep Inertial Odometry Network for Autonomous Vehicles](https://ieeexplore.ieee.org/abstract/document/8693766) | |
 | Brossard et al. | 2019 | ICRA | [Learning wheel odometry and imu errors for localization](https://hal.archives-ouvertes.fr/hal-01874593/document) | |
-| OriNet | 2019 | RA-L | [OriNet: Robust 3-D Orientation Estimation With a Single Particular IMU](https://ieeexplore.ieee.org/abstract/document/8931590) | |
-| L-IONet | 2020| IOT-J | [Deep Learning based Pedestrian Inertial Navigation: Methods, Dataset and On-Device Inference](https://arxiv.org/abs/2001.04061) | |
+| OriNet | 2019 | RA-L | [OriNet: Robust 3-D Orientation Estimation With a Single Particular IMU](https://ieeexplore.ieee.org/abstract/document/8931590) | [PT](https://github.com/mbrossar/denoise-imu-gyro) |
+| L-IONet | 2020| IoT-J | [Deep Learning based Pedestrian Inertial Navigation: Methods, Dataset and On-Device Inference](https://arxiv.org/abs/2001.04061) | |
 
 #### LIDAR Odometry
-| Models   |Year/Month| Publication| Paper | Code |
+| Models   |Date| Publication| Paper | Code |
 |----------|----|------------|------|---|
-| DeLS-3D | 2018/06 | CVPR | [DeLS-3D: Deep Localization and Segmentation with a 3D Semantic Map](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_DeLS-3D_Deep_Localization_CVPR_2018_paper.pdf) | |
-| Barsan et al. | 2018/09 | CoRL | [Learning to Localize Using a LiDAR Intensity Map](https://pdfs.semanticscholar.org/dde4/b101c74d8922be2b94db9490ba1bfc8d88ea.pdf) | |
-| LO-Net | 2019/06 | CVPR | [LO-Net: Deep Real-time Lidar Odometry](https://arxiv.org/abs/1904.08242) | |
-| L3-Net | 2019/06 | CVPR | [L3-Net: Towards Learning based LiDAR Localization for Autonomous Driving](https://songshiyu01.github.io/pdf/L3Net_W.Lu_Y.Zhou_S.Song_CVPR2019.pdf) | |
-| DeepPCO | 2019/11 | IROS | [DeepPCO: End-to-End Point Cloud Odometry through Deep Parallel Neural Network](https://arxiv.org/abs/1910.11088) | |
-| Valente et al. | 2019/11 | IROS | [Deep sensor fusion for real-time odometry estimation](https://ieeexplore.ieee.org/document/8967803) | |
+| Velas et al. | 2018 | ICARSC | [CNN for IMU Assisted Odometry Estimation using Velodyne LiDAR](https://arxiv.org/abs/1712.06352) | | 
+| LO-Net | 2019 | CVPR | [LO-Net: Deep Real-time Lidar Odometry](https://arxiv.org/abs/1904.08242) | |
+| DeepPCO | 2019 | IROS | [DeepPCO: End-to-End Point Cloud Odometry through Deep Parallel Neural Network](https://arxiv.org/abs/1910.11088) | |
+| Valente et al. | 2019 | IROS | [Deep sensor fusion for real-time odometry estimation](https://ieeexplore.ieee.org/document/8967803) | |
 
 ### Mapping
 #### Geometric Mapping
