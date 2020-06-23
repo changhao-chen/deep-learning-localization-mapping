@@ -8,8 +8,6 @@ This repository is a collection of deep learning based localization and mapping 
 - We released our survey paper "A Survey on Deep Learning for localization and mapping: Towards the Age of Spatial Machine Intelligence".
 
 ## TO DO
-- Global Localization
-- SLAM
 
 ## Category
 - [Odometry Estimation](#Odometry-Estimation)
@@ -247,12 +245,37 @@ This repository is a collection of deep learning based localization and mapping 
 ### SLAM
 
 #### Local Optimization
+| Models   |Date| Publication| Paper | Code |
+|----------|----|------------|------|---|
+| LS-Net | 2018 | ECCV | [Learning to solve nonlinear least squares for monocular stereo](https://arxiv.org/abs/1809.02966) | |
+| BA-Net | 2019 | ICLR | [BA-Net: Dense bundle adjustment network](https://arxiv.org/abs/1806.04807) | |
 
 #### Global Optimization
+| Models   |Date| Publication| Paper | Code |
+|----------|----|------------|------|---|
+| CNN-SLAM | 2017 | CVPR | [CNN-SLAM: Real-time dense monocular SLAM with learned depth prediction](https://arxiv.org/abs/1704.03489) | |
+| Li et al. | 2019 | ICRA | [Pose graph optimization for unsupervised monocular visual odometry](https://arxiv.org/abs/1903.06315) | |
+| DeepTAM | 2020 | IJCV | [DeepTAM: Deep Tracking and Mapping with Convolutional Neural Networks](https://lmb.informatik.uni-freiburg.de/Publications/2019/ZUB19a/) | |
+| DeepFactors | 2020 | RA-L | [DeepFactors: Real-Time Probabilistic Dense Monocular SLAM](https://arxiv.org/abs/2001.05049) | |
+
 
 #### Keyframe and Loop-closure Detection
+| Models   |Date| Publication| Paper | Code |
+|----------|----|------------|------|---|
+| Sunderhauf et al. | 2015 | RSS | [Place recognition with convnet landmarks: Viewpoint-robust, condition-robust, training-free](https://nikosuenderhauf.github.io/assets/papers/rss15_placeRec.pdf) | |
+| Gao et al. | 2017 | AR | [Unsupervised learning to detect loops using deep neural networks for visual slam system](https://dl.acm.org/citation.cfm?id=3040686) | |
+| Huang et al. | 2018 | RSS | [Lightweight unsupervised deep loop closure](https://arxiv.org/abs/1805.07703) | |
+| Sheng et al. | 2019 | ICCV | [Unsupervised Collaborative Learning of Keyframe Detection and Visual Odometry Towards Monocular Deep SLAM](http://openaccess.thecvf.com/content_ICCV_2019/html/Sheng_Unsupervised_Collaborative_Learning_of_Keyframe_Detection_and_Visual_Odometry_Towards_ICCV_2019_paper.html) | |
+| Memon et al. | 2020 | RAS | [Loop closure detection using supervised and unsupervised deep neural networks for monocular slam systems](https://www.sciencedirect.com/science/article/abs/pii/S0921889019308425) | |
 
 #### Uncertainty Estimation
+| Models   |Date| Publication| Paper | Code |
+|----------|----|------------|------|---|
+| Kendall et al. | 2016 | ICRA | [Modelling uncertainty in deep learning for camera relocalization](https://arxiv.org/abs/1509.05909) | |
+| Kendall et al. | 2017 | NeurIPS | [What Uncertainties Do We Need in Bayesian Deep Learning for Computer Vision?](https://arxiv.org/abs/1703.04977) | |
+| VidLoc | 2017 | CVPR | [VidLoc: A Deep Spatio-Temporal Model for 6-DoF Video-Clip Relocalization](https://arxiv.org/abs/1702.06521) | |
+| Wang et al. | 2018 | IJRR | [End-to-end, sequenceto-sequence probabilistic visual odometry through deep neural networks](https://researchportal.hw.ac.uk/en/publications/end-to-end-sequence-to-sequence-probabilistic-visual-odometry-thr) | |
+| Chen et al. | 2019 | TMC | [Deep neural network based inertial odometry using low-cost inertial measurement units](http://www.cs.ox.ac.uk/files/11501/DNN_IONet.pdf) | |
 
 This list is maintained by [Changhao Chen](http://www.cs.ox.ac.uk/people/changhao.chen/website/) and [Bing Wang](http://www.cs.ox.ac.uk/people/bing.wang/), Department of Computer Science, University of Oxford.
 
