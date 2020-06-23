@@ -199,6 +199,26 @@ This repository is a collection of deep learning based localization and mapping 
 
 
 #### 2D-to-3D Localization
+##### Descriptor Matching
+| Models   |Date| Publication| Paper | Code |
+|----------|----|------------|------|---|
+| NetVLAD | 2016 | CVPR | [Netvlad: Cnn architecture for weakly supervised place recognition](https://arxiv.org/abs/1511.07247) | |
+| DELF | 2017 | CVPR | [Large-scale image retrieval with attentive deep local features](https://arxiv.org/abs/1612.06321) | | InLoc | 2018/06 | CVPR | [InLoc: Indoor Visual Localization with Dense Matching and View Synthesis](http://openaccess.thecvf.com/content_cvpr_2018/papers/Taira_InLoc_Indoor_Visual_CVPR_2018_paper.pdf) | |
+| Schonberger et al.| 2018/06 | CVPR | [Semantic Visual Localization](http://openaccess.thecvf.com/content_cvpr_2018/papers/Schonberger_Semantic_Visual_Localization_CVPR_2018_paper.pdf) | |
+| SuperPoint | 2018 | CVPRW | [Superpoint: Selfsupervised interest point detection and description](https://arxiv.org/abs/1712.07629) | |
+| NC-Net | 2018 | NeurIPS | [Neighbourhood consensus networks](https://arxiv.org/abs/1810.10510) | |
+| Sarlin et al. | 2019/06 | CVPR | [From Coarse to Fine: Robust Hierarchical Localization at Large Scale](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sarlin_From_Coarse_to_Fine_Robust_Hierarchical_Localization_at_Large_Scale_CVPR_2019_paper.pdf)| |
+| 2D3D-MatchNet | 2019 | ICRA | [2d3d-matchnet: learning to match keypoints across 2d image and 3d point cloud](https://ieeexplore.ieee.org/document/8794415) | |
+| D2-Net | 2019 | CVPR | [D2-net: A trainable cnn for joint description and detection of local features](https://arxiv.org/abs/1905.03561) | |
+| Speciale et al. | 2019 | CVPR | [Privacy preserving image-based localization](https://arxiv.org/abs/1903.05572) | |
+| OOI-Net | 2019 | CVPR | [Visual localization by learning objects-of-interest dense match regression](https://europe.naverlabs.com/wp-content/uploads/2019/05/Visual-Localization-by-Learning-Objects-of-Interest-Dense-Match-Regression.pdf) | |
+| Camposeco et al. | 2019 | CVPR | [scene compression for visual localization](https://arxiv.org/abs/1807.07512) | |
+| Cheng et al. | 2019 | CVPR | [Cascaded parallel filtering for memory-efficient image-based localization](https://arxiv.org/abs/1908.06141) | |
+|Taira et al. | 2019 | CVPR | [Is this the right place? geometric-semantic pose verification for indoor visual localization](https://arxiv.org/abs/1908.04598) | |
+| R2D2 | 2019| NeurIPS | [R2d2: Repeatable and reliable detector and descriptor](https://papers.nips.cc/paper/9407-r2d2-reliable-and-repeatable-detector-and-descriptor.pdf) | |
+| ASLFeat | 2020 | CVPR | [Aslfeat: Learning local features of accurate shape and localization](https://arxiv.org/abs/2003.10071) | |
+
+##### Scene Coordinate Regression
 
 #### 3D-to-3D Localization
 
