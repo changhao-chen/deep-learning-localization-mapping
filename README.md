@@ -100,9 +100,16 @@ This repository is a collection of deep learning based localization and mapping 
 ### Mapping
 #### Geometric Mapping
 ##### Depth Representation
+* Joint learning of depth and ego-motion has been discussed in Visual Odometry. We do not include these works here, although they can produce depth representation.
+
 | Models   |Date| Publication| Paper | Code |
 |----------|----|------------|------|---|
 | Eigen et al. | 2014 | NeurIPS | [Depth Map Prediction from a Single Image using a Multi-Scale Deep Network](https://papers.nips.cc/paper/5539-depth-map-prediction-from-a-single-image-using-a-multi-scale-deep-network.pdf) | |
+| Liu et al. | 2015 | TPAMI | [Learning depth from single monocular images using deep convolutional neural fields](https://arxiv.org/abs/1502.07411) | |
+| Garg et al. | 2016 | ECCV | [Unsupervised cnn for single view depth estimation: Geometry to the rescue](https://arxiv.org/abs/1603.04992) | |
+| Demon | 2017 | CVPR | [Demon: Depth and motion network for learning monocular stereo](https://arxiv.org/abs/1612.02401) | |
+| Godard et al. | 2017 | CVPR | [Unsupervised monocular depth estimation with left-right consistency](https://arxiv.org/abs/1609.03677) | |
+| Wang et al. | 2018 | CVPR | [Learning depth from monocular videos using direct methods](https://arxiv.org/abs/1712.00175) | |
 
 ##### Voxel Representation
 | Models   |Date| Publication| Paper | Code |
@@ -159,6 +166,37 @@ This repository is a collection of deep learning based localization and mapping 
 
 ### Global Localization
 #### 2D-to-2D Localization
+##### Implicit Map Based Localization
+| Models   |Date| Publication| Paper | Code |
+|----------|----|------------|------|---|
+| PoseNet  | 2015 | ICCV | [PoseNet: A Convolutional Network for Real-Time 6-DOF Camera Relocalization](https://arxiv.org/abs/1505.07427)  | |
+| Bayesian PoseNet  | 2016 | ICRA | [Modelling uncertainty in deep learning for camera relocalization](https://arxiv.org/abs/1509.05909)  | |
+| BranchNet | 2017 | ICRA | [Delving deeper into convolutional neural networks for camera relocalization](http://ieeexplore.ieee.org/document/7989663/) | |
+| VidLoc   | 2017 | CVPR | [VidLoc: A Deep Spatio-Temporal Model for 6-DoF Video-Clip Relocalization](https://arxiv.org/abs/1702.06521)  | |
+| Geometric PoseNet | 2017 | CVPR | [Geometric loss functions for camera pose regression with deep learning](http://openaccess.thecvf.com/content_cvpr_2017/html/Kendall_Geometric_Loss_Functions_CVPR_2017_paper.html) | |
+| Naseer et al. | 2017 | IROS | [Deep Regression for Monocular Camera-based 6-DoF Global Localization in Outdoor Environments](http://ais.informatik.uni-freiburg.de/publications/papers/naseer17iros.pdf)| |
+| LSTM-PoseNet | 2017| ICCV | [Image-based localization using lstms for structured feature correlation](https://arxiv.org/abs/1611.07890) | |
+| Hourglass PoseNet | 2017| ICCV Workshops | [Image-based localization using hourglass networks](http://openaccess.thecvf.com/content_ICCV_2017_workshops/w17/html/Melekhov_Image-Based_Localization_Using_ICCV_2017_paper.html) | |
+| VLocNet | 2018 | ICRA | [Deep auxiliary learning for visual localization and odometry](https://arxiv.org/abs/1803.03642)| |
+| MapNet | 2018 | CVPR | [Geometry-Aware Learning of Maps for Camera Localization](https://arxiv.org/abs/1712.03342)| |
+| SPP-Net | 2018 | BMVC | [Synthetic view generation for absolute pose regression and image synthesis](http://bmvc2018.org/contents/papers/0221.pdf) | |
+| GPoseNet | 2018 | BMVC | [A hybrid probabilistic model for camera relocalization](http://bmvc2018.org/contents/papers/0799.pdf) | |
+| VLocNet++ | 2018 | RA-L | [Vlocnet++: Deep multitask learning for semantic visual localization and odometry](https://arxiv.org/abs/1804.08366)| |
+| Xue et al. | 2019 | ICCV |  [Local supports global: Deep camera relocalization with sequence enhancement](https://arxiv.org/abs/1908.04391)| |
+| Huang et al. | 2019 | ICCV | [Prior guided dropout for robust visual localization in dynamic environments](http://openaccess.thecvf.com/content_ICCV_2019/papers/Huang_Prior_Guided_Dropout_for_Robust_Visual_Localization_in_Dynamic_Environments_ICCV_2019_paper.pdf) | |
+| Bui et al. | 2019 | ICCVW | [Adversarial networks for camera pose regression and refinement](https://arxiv.org/abs/1903.06646) | |
+| GN-Net | 2020 | RA-L | [GN-Net: The Gauss-Newton Loss for Multi-Weather Relocalization](https://ieeexplore.ieee.org/abstract/document/8954808) | |
+| AtLoc | 2020 | AAAI | [AtLoc: Attention Guided Camera Localization](https://arxiv.org/abs/1909.03557) | |
+
+##### Explicit Map Based Localization
+| Models   |Date| Publication| Paper | Code |
+|----------|----|------------|------|---|
+| Laskar et al. | 2017| ICCV Workshops | [Camera Relocalization by Computing Pairwise Relative Poses Using Convolutional Neural Network](http://openaccess.thecvf.com/content_ICCV_2017_workshops/papers/w17/Laskar_Camera_Relocalization_by_ICCV_2017_paper.pdf) | |
+| DELS-3D | 2018 | CVPR | [Dels-3d: Deep localization and segmentation with a 3d semantic map](https://arxiv.org/abs/1805.04949) | |
+| AnchorNet | 2018 | BMVC | [Improved visual relocalization by discovering anchor points](https://arxiv.org/abs/1811.04370) | |
+| RelocNet | 2018 | ECCV | [RelocNet: Continuous Metric Learning Relocalisation using Neural Nets](http://openaccess.thecvf.com/content_ECCV_2018/papers/Vassileios_Balntas_RelocNet_Continous_Metric_ECCV_2018_paper.pdf) | |
+| CamNet | 2019 |  ICCV | [Camnet: Coarse-to-fine retrieval for camera re-localization](http://openaccess.thecvf.com/content_ICCV_2019/html/Ding_CamNet_Coarse-to-Fine_Retrieval_for_Camera_Re-Localization_ICCV_2019_paper.html)| |
+
 
 #### 2D-to-3D Localization
 
