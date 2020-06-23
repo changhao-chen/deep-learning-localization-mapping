@@ -219,8 +219,30 @@ This repository is a collection of deep learning based localization and mapping 
 | ASLFeat | 2020 | CVPR | [Aslfeat: Learning local features of accurate shape and localization](https://arxiv.org/abs/2003.10071) | |
 
 ##### Scene Coordinate Regression
+| Models   |Date| Publication| Paper | Code |
+|----------|----|------------|------|---|
+| DSAC | 2017/07 | CVPR | [DSAC - Differentiable RANSAC for Camera Localization](http://openaccess.thecvf.com/content_cvpr_2017/html/Brachmann_DSAC_-_Differentiable_CVPR_2017_paper.html) | |
+| DSAC++ | 2018/06 | CVPR | [Learning less is more-6d camera localization via 3d surface regression](https://arxiv.org/abs/1711.10228) | |
+| Dense SCR | 2018/07 | RSS | [Full-Frame Scene Coordinate Regression for Image-Based Localization](https://arxiv.org/abs/1802.03237) | |
+| DSAC++ angle | 2018/09 | ECCV | [Scene coordinate regression with angle-based reprojection loss for camera relocalization](http://openaccess.thecvf.com/content_eccv_2018_workshops/w16/html/Li_Scene_Coordinate_Regression_with_Angle-Based_Reprojection_Loss_for_Camera_Relocalization_ECCVW_2018_paper.html) | |
+| Confidence SCR | 2018/09 | BMVC | [Scene Coordinate and Correspondence Learning for Image-Based Localization](https://arxiv.org/abs/1805.08443) | |
+| ESAC | 2019/10 |  ICCV | [Expert Sample Consensus Applied to Camera Re-Localization](http://openaccess.thecvf.com/content_ICCV_2019/html/Ding_CamNet_Coarse-to-Fine_Retrieval_for_Camera_Re-Localization_ICCV_2019_paper.html)| |
+| NG-RANSAC | 2019/06 | CVPR | [Neural-Guided RANSAC: Learning Where to Sample Model Hypotheses](http://openaccess.thecvf.com/content_ICCV_2019/papers/Brachmann_Neural-Guided_RANSAC_Learning_Where_to_Sample_Model_Hypotheses_ICCV_2019_paper.pdf)| |
+| SANet | 2019/10 | ICCV | [SANet: scene agnostic network for camera localization](http://openaccess.thecvf.com/content_ICCV_2019/papers/Yang_SANet_Scene_Agnostic_Network_for_Camera_Localization_ICCV_2019_paper.pdf)| |
+| HSC-Net | 2020 | CVPR | [Hierarchical scene coordinate classification and regression for visual localization](https://arxiv.org/abs/1909.06216) | |
+| KF-Net | 2020 | CVPR | [Kfnet: Learning temporal camera relocalization using kalman filtering](https://arxiv.org/abs/2003.10629) | |
 
 #### 3D-to-3D Localization
+| Models   |Date| Publication| Paper | Code |
+|----------|----|------------|------|---|
+| LocNet | 2018 | IV | [Locnet: Global localization in 3d point clouds for mobile vehicles](https://arxiv.org/abs/1712.02165) | |
+| PointNetVLAD | 2018 | CVPR | [Pointnetvlad: Deep point cloud based retrieval for large-scale place recognition](https://arxiv.org/abs/1804.03492) | |
+| Barsan et al. | 2018 | CoRL | [Learning to localize using a lidar intensity map](http://proceedings.mlr.press/v87/barsan18a/barsan18a.pdf) | |
+| L3-Net | 2019 | CVPR | [L3-net: Towards learning based lidar localization for autonomous driving](https://songshiyu01.github.io/pdf/L3Net_W.Lu_Y.Zhou_S.Song_CVPR2019.pdf) | |
+| PCAN | 2019 | CVPR | [PCAN: 3D Attention Map Learning Using Contextual Information for Point Cloud Based Retrieval](https://arxiv.org/abs/1904.09793) | |
+| DeepICP | 2019 | CVPR | [Deepicp: An end-to-end deep neural network for 3d point cloud registration](https://arxiv.org/abs/1905.04153) | |
+| DCP | 2019 | CVPR | [Deep closest point: Learning representations for point cloud registration](https://arxiv.org/abs/1905.03304) | |
+| D3Feat | 2020 | CVPR | [D3feat: Joint learning of dense detection and description of 3d local features](https://arxiv.org/abs/2003.03164) | |
 
 ### SLAM
 
