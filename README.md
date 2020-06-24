@@ -1,11 +1,17 @@
 # Deep Learning for Localization and Mapping
 
 ![image](image/concept_figure.png)
-This repository is a collection of deep learning based localization and mapping approaches. 
+This repository is a collection of deep learning based localization and mapping approaches. A survey is offered in the following paper:
+
+>A Survey on Deep Learning for Localization and Mapping: Towards the Age of Spatial Machine Intelligence
+ >
+ >[Changhao Chen](http://www.cs.ox.ac.uk/people/changhao.chen/website/), [Bing Wang](https://www.cs.ox.ac.uk/people/bing.wang/), [Chris Xiaoxuan Lu](https://christopherlu.github.io/), [Niki Trigoni](https://www.cs.ox.ac.uk/people/niki.trigoni/) and [Andrew Markham](https://www.cs.ox.ac.uk/people/andrew.markham/)
+ >
+ >**arXiv:2006.12567** [[PDF](https://arxiv.org/abs/2006.12567)]
 
 ## News
 ### Update: Jun-22-2020
-- We released our survey paper "A Survey on Deep Learning for localization and mapping: Towards the Age of Spatial Machine Intelligence".
+- We released our survey paper.
 
 ## TO DO
 
@@ -28,6 +34,18 @@ This repository is a collection of deep learning based localization and mapping 
   - [Global Optimization](#Global-Optimization)
   - [Keyframe and Loop-closure Detection](#Keyframe-and-Loop-closure-Detection)
   - [Uncertainty Estimation](#Uncertainty-Estimation)
+
+## If you find this repository useful, please cite our paper:
+ 
+    @misc{chen2020survey,
+    title={A Survey on Deep Learning for Localization and Mapping: Towards the Age of Spatial Machine Intelligence},
+    author={Changhao Chen and Bing Wang and Chris Xiaoxuan Lu and Niki Trigoni and Andrew Markham},
+    year={2020},
+    eprint={2006.12567},
+    archivePrefix={arXiv},
+    primaryClass={cs.CV}
+    }
+
   
 ## Categorized by Topic
 *The Date in the table denotes the publication date (e.g. date of conference).
