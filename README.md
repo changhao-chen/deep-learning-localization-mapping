@@ -5,7 +5,7 @@ This repository is a collection of deep learning based localization and mapping 
 
 >A Survey on Deep Learning for Localization and Mapping: Towards the Age of Spatial Machine Intelligence
  >
- >[Changhao Chen](http://www.cs.ox.ac.uk/people/changhao.chen/website/), [Bing Wang](https://www.cs.ox.ac.uk/people/bing.wang/), [Chris Xiaoxuan Lu](https://christopherlu.github.io/), [Niki Trigoni](https://www.cs.ox.ac.uk/people/niki.trigoni/) and [Andrew Markham](https://www.cs.ox.ac.uk/people/andrew.markham/)
+ >[Changhao Chen](https://changhao-chen.github.io/), [Bing Wang](https://www.cs.ox.ac.uk/people/bing.wang/), [Chris Xiaoxuan Lu](https://christopherlu.github.io/), [Niki Trigoni](https://www.cs.ox.ac.uk/people/niki.trigoni/) and [Andrew Markham](https://www.cs.ox.ac.uk/people/andrew.markham/)
  >
  >**arXiv:2006.12567** [[PDF](https://arxiv.org/abs/2006.12567)]
 
