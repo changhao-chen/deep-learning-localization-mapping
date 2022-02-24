@@ -9,8 +9,6 @@ This repository is a collection of deep learning based localization and mapping 
  >
  >**arXiv:2006.12567** [[PDF](https://arxiv.org/abs/2006.12567)]
 
-This survey is also briefly introduced in Chinese [[Zhihu](https://zhuanlan.zhihu.com/p/152754491)]
-
 ## News
 ### Update: Jun-22-2020
 - We released our survey paper.
