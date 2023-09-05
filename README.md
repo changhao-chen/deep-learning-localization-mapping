@@ -3,6 +3,14 @@
 ![image](image/concept_figure.png)
 This repository is a collection of deep learning based localization and mapping approaches. A survey is offered in the following paper:
 
+>Deep Learning for Visual Localization and Mapping: A Survey
+ >
+ >[Changhao Chen](https://changhao-chen.github.io/), [Bing Wang](https://www.cs.ox.ac.uk/people/bing.wang/), [Chris Xiaoxuan Lu](https://christopherlu.github.io/), [Niki Trigoni](https://www.cs.ox.ac.uk/people/niki.trigoni/) and [Andrew Markham](https://www.cs.ox.ac.uk/people/andrew.markham/)
+ >
+ >**IEEE Transactions on Neural Networks and Learning Systems** [[PDF](https://arxiv.org/abs/2308.14039)]
+
+Previous Version.
+
 >A Survey on Deep Learning for Localization and Mapping: Towards the Age of Spatial Machine Intelligence
  >
  >[Changhao Chen](https://changhao-chen.github.io/), [Bing Wang](https://www.cs.ox.ac.uk/people/bing.wang/), [Chris Xiaoxuan Lu](https://christopherlu.github.io/), [Niki Trigoni](https://www.cs.ox.ac.uk/people/niki.trigoni/) and [Andrew Markham](https://www.cs.ox.ac.uk/people/andrew.markham/)
@@ -12,7 +20,7 @@ This repository is a collection of deep learning based localization and mapping 
 ## News
 ### Update: Jun-22-2020
 - We released our survey paper.
-### Update: Jun-22-2020
+### Update: Aug-30-2023
 - Our Survey "Deep Learning for Visual Localization and Mapping: A Survey" was accepted to IEEE TNNLS.
 
 ## TO DO
