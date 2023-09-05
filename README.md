@@ -12,6 +12,8 @@ This repository is a collection of deep learning based localization and mapping 
 ## News
 ### Update: Jun-22-2020
 - We released our survey paper.
+### Update: Jun-22-2020
+- Our Survey "Deep Learning for Visual Localization and Mapping: A Survey" was accepted to IEEE TNNLS.
 
 ## TO DO
 
