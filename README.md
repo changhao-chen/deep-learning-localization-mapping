@@ -1,13 +1,21 @@
 # Deep Learning for Localization and Mapping
 
 ![image](image/concept_figure.png)
-This repository is a collection of deep learning based localization and mapping approaches. A survey is offered in the following paper:
+This repository is a collection of deep learning based localization and mapping approaches. A survey on Deep Learning for Visual Localization and Mapping is offered in the following paper:
 
 >Deep Learning for Visual Localization and Mapping: A Survey
  >
  >[Changhao Chen](https://changhao-chen.github.io/), [Bing Wang](https://www.cs.ox.ac.uk/people/bing.wang/), [Chris Xiaoxuan Lu](https://christopherlu.github.io/), [Niki Trigoni](https://www.cs.ox.ac.uk/people/niki.trigoni/) and [Andrew Markham](https://www.cs.ox.ac.uk/people/andrew.markham/)
  >
  >**IEEE Transactions on Neural Networks and Learning Systems** [[PDF](https://arxiv.org/abs/2308.14039)]
+
+A survey on Deep Learning for Inertial Positioning is offered in the following paper:
+
+>Deep Learning for Inertial Positioning: A Survey
+ >
+ >[Changhao Chen](https://changhao-chen.github.io/), Xianfei Pan
+ >
+ >**IEEE Transactions on Intelligent Transportation Systems** [[PDF](https://arxiv.org/abs/2303.03757)]
 
 Previous Version.
 
@@ -22,6 +30,8 @@ Previous Version.
 - We released our survey paper.
 ### Update: Aug-30-2023
 - Our Survey "Deep Learning for Visual Localization and Mapping: A Survey" was accepted to IEEE TNNLS.
+### Update: Mar-13-2024
+- Our Survey "Deep Learning for Inertial Positioning: A Survey" was accepted to IEEE TITS.
 
 ## TO DO
 
